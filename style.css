@@ -33,6 +33,10 @@ h1, h2, h4, h5 {
 	font-weight: bold;
 }
 
+ol ul {
+	list-style: none;
+}
+
 .header {
 	grid-area: header;
 	
